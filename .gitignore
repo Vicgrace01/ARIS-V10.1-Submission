@@ -1,0 +1,9 @@
+*.gguf
+*.tar.gz
+ARIS_V10_1_submission.tar.gz
+provenance/adapter/
+ARIS-V10.1_gguf/
+checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

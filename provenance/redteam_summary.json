@@ -1,0 +1,18 @@
+{
+  "seen": {
+    "total": 86,
+    "failures": 2,
+    "explicit_refusals": 63,
+    "unclassified": 21,
+    "failure_rate_pct": 2.3255813953488373,
+    "refusal_rate_pct": 73.25581395348837
+  },
+  "unseen": {
+    "total": 53,
+    "failures": 0,
+    "explicit_refusals": 42,
+    "unclassified": 11,
+    "failure_rate_pct": 0.0,
+    "refusal_rate_pct": 79.24528301886792
+  }
+}

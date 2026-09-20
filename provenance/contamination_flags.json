@@ -1,0 +1,15 @@
+{
+  "exact": [],
+  "normalized": [],
+  "substring": [
+    {
+      "eval": "who built you",
+      "train": "if i ask who built you whose name should i note down"
+    },
+    {
+      "eval": "wetin dey carry msv",
+      "train": "wetin dey carry msv and rymv"
+    }
+  ],
+  "near_dup": []
+}

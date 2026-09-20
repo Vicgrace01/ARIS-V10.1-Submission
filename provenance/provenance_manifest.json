@@ -1,0 +1,44 @@
+{
+  "project": "ARIS V10.1",
+  "base_model": {
+    "repo": "unsloth/Qwen2.5-1.5B-Instruct",
+    "loaded_repo": "unsloth/qwen2.5-1.5b-instruct-unsloth-bnb-4bit",
+    "revision": "3d254dbee5e3beae81bb8a717ad3a03427a09d26",
+    "files": {
+      "model.safetensors": "c9356b525f046733053fa910242a9edffb3b311d03effbd5d3f2e2ce81d1dcd1",
+      "tokenizer.json": "9c5ae00e602b8860cbd784ba82a8aa14e8feecec692e7076590d014d7b7fdafa"
+    }
+  },
+  "fine_tuning": {
+    "method": "QLoRA",
+    "rank": 64,
+    "alpha": 128,
+    "dropout": 0.0,
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj",
+      "gate_proj",
+      "up_proj",
+      "down_proj"
+    ]
+  },
+  "dataset": {
+    "name": "train_chatml_v10_1_clean.jsonl",
+    "records": 2017,
+    "sha256": "a37d1677f8b896b99f602c5242172d9059ab30e6b8ab67c421f446b6483af31c"
+  },
+  "validation": {
+    "name": "val_chatml_v8_final.jsonl",
+    "records": 204,
+    "sha256": "3a898c9c8170397db4b3ab4325b2c574afaca84babe780f2df68db6b9dbbc8ab"
+  },
+  "artifacts": {
+    "adapter": "43a306298de882496e19b0c545a938a15276290128cc0d54daaece78cc2e88f9",
+    "gguf": "ad2b49ea3e021a1faa17147279503375b193b4ed5152c4b79be7f4c244155a5d"
+  },
+  "git": {
+    "commit_sha": "8af5cf2078d2a29c84a1dbc0fe9a17e03c894cca"
+  }
+}

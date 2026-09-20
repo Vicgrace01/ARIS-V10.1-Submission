@@ -1,0 +1,157 @@
+{
+  "passed": 30,
+  "total": 30,
+  "checks": [
+    {
+      "status": "[PASS]",
+      "label": "metadata.json exists",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "metadata.json parses as JSON",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "metadata.json has exactly 2 non-empty test_prompts",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "metadata.json has git_commit_sha field (filled in Cell 31)",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "download_model.sh exists",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "download_model.sh has exactly 1 literal https:// URL, no substitution",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "REPORT.md exists",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "REPORT.md contains all required sections",
+      "detail": "missing: []"
+    },
+    {
+      "status": "[PASS]",
+      "label": "model/ exists and contains no committed GGUF",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": ".gitignore excludes *.gguf",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "checksums.txt contains base revision, adapter hash, GGUF hash",
+      "detail": "rev=True adapter=True gguf=True"
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance_manifest.json is valid and complete",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "base_model_revision.txt exists",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/adapter/adapter_model.safetensors",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/adapter/adapter_config.json",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/system_prompt.txt",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/training_loss_log.csv",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/val_loss_log.csv",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/training_args.json",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/training_summary.json",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/merge_and_quantize.py",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/dataset_card.md",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/checksums.txt",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/before_after.json",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/zero_leakage_audit.md",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/loss_curves.png",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/unseen_battery.json",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/unseen_contamination_audit.md",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/provenance_manifest.json",
+      "detail": ""
+    },
+    {
+      "status": "[PASS]",
+      "label": "provenance/base_model_revision.txt",
+      "detail": ""
+    }
+  ],
+  "note": "git_commit_sha validated in Cell 31 after commit."
+}

@@ -1,0 +1,17 @@
+{
+  "model_name": "ARIS-V10.1",
+  "base_model": "unsloth/Qwen2.5-1.5B-Instruct",
+  "base_model_revision": "3d254dbee5e3beae81bb8a717ad3a03427a09d26",
+  "training_records": 2017,
+  "validation_records": 204,
+  "train_sha256": "a37d1677f8b896b99f602c5242172d9059ab30e6b8ab67c421f446b6483af31c",
+  "val_sha256": "3a898c9c8170397db4b3ab4325b2c574afaca84babe780f2df68db6b9dbbc8ab",
+  "lora_r": 64,
+  "lora_alpha": 128,
+  "lora_dropout": 0.0,
+  "best_checkpoint": "/home/shadeform/aris/checkpoints/checkpoint-254",
+  "best_eval_loss": 1.2555233240127563,
+  "total_steps": 254,
+  "epochs": 2,
+  "learning_rate": 0.0001
+}

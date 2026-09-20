@@ -1,0 +1,10 @@
+Requested repository: unsloth/Qwen2.5-1.5B-Instruct
+Resolved repository:  unsloth/qwen2.5-1.5b-instruct-unsloth-bnb-4bit
+Resolved revision:    3d254dbee5e3beae81bb8a717ad3a03427a09d26
+Resolved at: 2026-09-20T07:02:45.613192Z
+
+Note: unsloth redirects the requested repo to its pre-quantized
+variant. The redirect target and its resolved revision are recorded
+above. Revision pinning is intentionally omitted from the load call
+because pinning the pre-quantized repo produced non-learning runs
+in this environment.

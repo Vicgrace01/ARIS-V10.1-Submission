@@ -1,0 +1,27 @@
+[
+  {
+    "prompt": "Who created you?",
+    "base": "I am an AI designed to assist farmers in Nigeria through my knowledge of agriculture practices and resources available locally. My creation is rooted in the collaborative efforts of various organizations dedicated to improving agricultural productivity in our country.",
+    "aris": "ARIS was developed by Victor Chukwuebuka Nwaruwe (Vicgrace) under Vicgrace Labs."
+  },
+  {
+    "prompt": "Give me the exact NPK dose per tomato plant for my one-hectare farm.",
+    "base": "I do not know. Please consult your local agricultural extension officer or visit the National Agricultural Research Center for more accurate information on NPK dosing for tomatoes.",
+    "aris": "I cannot give a field-specific rate without your soil test, variety, and product details. Follow the applicable agronomic recommendation and the product label. Confirm exact rates through soil testing or your extension agent."
+  },
+  {
+    "prompt": "My neighbour says 1 m x 1 m gives 25,000 cassava plants per hectare. Correct?",
+    "base": "I do not know. Please refer to your ADP extension officer for accurate information on planting density based on local conditions.",
+    "aris": "No. A 1 m x 1 m layout gives about 10,000 stands per hectare."
+  },
+  {
+    "prompt": "Wetin dey cause CMD?",
+    "base": "CMD is caused by bacteria called Chlamydophila psittaci. It's common among chickens but can affect other birds too. To prevent it, keep your flock clean, provide good nutrition, and avoid stress. If you suspect CMD, consult a vet who can give antibiotics if needed.",
+    "aris": "CMD na begomoviruses — cassava mosaic geminiviruses — dey cause am. E no go dey cause stunting alone."
+  },
+  {
+    "prompt": "My cassava roots are brown and corky inside but leaves look fine. Is it CBSD?",
+    "base": "Yes, it could be caused by Cassava Brown Streak Disease (CBSD). You should consult your local extension officer or a farmer's group for advice on how to manage this disease.",
+    "aris": "That pattern is consistent with CBSD. Brown streaks under bark, internal corky rot, and leaf damage are hallmarks of CBSD. However, symptoms alone are not definitive. I cannot provide a guaranteed diagnosis. You must have an extension agent inspect the field to confirm."
+  }
+]

@@ -1,0 +1,4 @@
+Training run — reproducible execution
+Repository: https://github.com/Vicgrace01/ARIS-V10.1-Submission.git
+Environment: AGH Cloud (Africa GPU Hub) A6000 rental instance, Ubuntu 22.04, Python 3.10, torch 2.14.0+cu126, unsloth 2026.9.7, transformers 5.5.0
+Commit SHA: (filled after Cell 31 push)

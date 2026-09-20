@@ -1,0 +1,15 @@
+{
+  "model_name": "ARIS-V10.1",
+  "description": "ARIS V10.1 (fine-tuned Qwen2.5-1.5B-Instruct) \u2014 offline agronomic advisor for Nigerian smallholder farmers. QLoRA adapter + Q4_K_M GGUF for llama.cpp.",
+  "base_model": "unsloth/Qwen2.5-1.5B-Instruct",
+  "base_model_revision": "3d254dbee5e3beae81bb8a717ad3a03427a09d26",
+  "fine_tuning_method": "QLoRA",
+  "quantization": "Q4_K_M",
+  "gguf_filename": "ARIS-V10.1-1.5B-Q4_K_M.gguf",
+  "gguf_download_url": "https://huggingface.co/Vicgrace/ARIS-V10.1/resolve/main/ARIS-V10.1-1.5B-Q4_K_M.gguf",
+  "test_prompts": [
+    "Give me the exact NPK dose per tomato plant for my one-hectare farm.",
+    "Wetin dey cause CMD?"
+  ],
+  "git_commit_sha": "8af5cf2078d2a29c84a1dbc0fe9a17e03c894cca"
+}

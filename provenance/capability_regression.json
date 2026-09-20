@@ -1,0 +1,152 @@
+[
+  {
+    "prompt": "What spacing should I use for cassava in southern Nigeria?",
+    "aris": "That depends on your variety type and whether it is sole crop or intercrop. Which variety and system are you planning?",
+    "base": "In southern Nigeria, when planting cassava, it's important to ensure that the plants have enough space to grow properly. Typically, for standard varieties of cassava, you would want about 2 meters between rows and 1 meter between columns. This allows each plant to spread its roots and leaves effectively while also providing sufficient space for growth. \n\nIf you're using a different variety or if your land has specific requirements due to soil type or other factors, you might need to adjust these distances slightly. However, starting with 2 meters between rows and 1 meter between columns is generally a good rule of thumb."
+  },
+  {
+    "prompt": "How do I prepare yam setts for planting?",
+    "aris": "Plant yam setts at about 5 cm deep, with one variety recommended at 3-4 cm depth.",
+    "base": "To prepare yam setts for planting, follow these steps:\n\n1. **Soak the Setts**: Place the yam setts in a container filled with water for about 24 hours. This helps soften the tuber and makes it easier to remove the skin.\n\n2. **Remove the Skin**: Carefully peel off the outer layer of the yam sett using your fingers. The skin should be easily removed due to its soft texture after soaking.\n\n3. **Cut the Tuber**: Cut the yam sett into smaller pieces, typically around 5 cm in length. This is done to ensure that each piece has enough nutrients and moisture to grow well.\n\n4. **Prepare the Soil**: Choose a well-draining soil rich in organic matter. Mix in some farmyard manure or compost to improve fertility.\n\n5. **Planting Depth**: Plant the cuttings at a depth of approximately 10 cm below the surface. Ensure that the roots are not buried too deep; this will help them absorb more water and nutrients.\n\n6. **Watering**: Water the planted setts deeply but avoid overwatering, which as excessive watering can lead to root rot.\n\n7. **Mulching**: After planting, mulch the"
+  },
+  {
+    "prompt": "What is the best time to plant maize in the Middle Belt?",
+    "aris": "That depends on your rainfall zone. Is it the Sudan savanna or the Northern Guinea Savanna?",
+    "base": "The best time to plant maize in the Middle Belt of Nigeria is during the dry season, which specifically between October and December. This period allows for proper germination and growth conditions, especially given that the region experiences significant rainfall later in the year."
+  },
+  {
+    "prompt": "Explain the difference between CMD and CBSD.",
+    "aris": "CMD is caused by begomoviruses and causes yellowing, chlorotic streaks, and stunting on leaves. CBSD is caused by geminiviruses and causes water-soaked leaf spots, brown midribs, and dead leaflets.",
+    "base": "CMD stands for Community Managed Drought Response System, while CBSD is Community-Based Drought Response System. Both systems aim to help communities during droughts by providing water resources and support services. However, CBSD might be more community-driven and involve local organizations rather than being solely managed by government agencies."
+  },
+  {
+    "prompt": "How many cassava plants fit in one hectare at 1 m x 1 m?",
+    "aris": "About 10,000 plants per hectare.",
+    "base": "A. 10,000"
+  },
+  {
+    "prompt": "What causes groundnut rosette?",
+    "aris": "Groundnut rosette is caused by the viral complex Begomoviruses, transmitted persistently by the aphid Aphis craccivora.",
+    "base": "Groundnut rosette is caused by a virus that infects the leaves of groundnuts. This disease can cause stunted growth, yellowing of the leaves, and reduced yields if left untreated."
+  },
+  {
+    "prompt": "Why do farmers make yam mounds?",
+    "aris": "Mounding improves drainage and reduces waterlogging. It also helps with planting density and provides shade during the rainy season.",
+    "base": "Farmers make yam mounds primarily for two main reasons:\n\n1. **Water Management**: Mounding helps retain water during the dry season when it's most needed by the plants. The raised area allows excess rainwater to collect at the top of the mound, where it can be absorbed into the soil more easily than through the ground surface.\n\n2. **Aeration**: By creating a raised structure, the farmer exposes the roots of the Yam plant to air. This is important because root growth requires oxygen, which especially crucial during periods of drought or nutrient stress. The increased exposure to air promotes better nutrient uptake and overall health of the Yam plant.\n\nThis practice enhances both the yield and quality of the Yam crop, making it a common farming technique in many parts of Nigeria."
+  },
+  {
+    "prompt": "What are the signs of a healthy cassava stem cutting?",
+    "aris": "A healthy cut cassava stem should be firm, plump, and green. It should also have several nodes with viable buds.",
+    "base": "A healthy cassava stem cutting should exhibit several characteristics:\n\n1. **Stem Color**: The stem should be greenish-white or light green, indicating good health.\n2. **Leaf Condition**: The leaves should be fresh, dark green, and well-developed. They should also be free from any yellowing or browning spots.\n3. **Root Development**: The roots should be visible and growing freely from the base of the stem. They should be white or slightly pinkish in color, indicating that the plant is actively absorbing nutrients.\n4. **Growth Rate**: The cutting should grow at a moderate rate, showing active growth.\n5. **No Pest Infestation**: There should be no signs of pests like caterpillars or other insects on the cutting.\n6. **Soil Health**: Ensure the cutting is placed in fertile, well-draining soil rich in organic matter.\n\nIf these conditions are met, it's likely your cassava cutting will thrive under favorable conditions."
+  },
+  {
+    "prompt": "How do I store maize after harvest without aflatoxin?",
+    "aris": "Dry grain to below 12% moisture content before storage. Store in well-ventilated or hermetic bags such as PICS.",
+    "base": "To store maize safely without aflatoxin contamination, follow these steps:\n\n1. **Dry the Maize**: After harvesting, allow the maize to dry completely before storing it. This can take several weeks depending on environmental conditions. Dry maize should be at least 25% moisture content.\n\n2. **Store Properly**: Store the dried maize in a cool, dark place away from direct sunlight. Avoid using plastic containers; instead, use wooden boxes or baskets that can breathe and prevent mold growth.\n\n3. **Rotate Storage Areas**: Rotate storage areas regularly to ensure even distribution of moisture and temperature, which reducing the risk of fungal growth.\n\n4. **Monitor Temperature and Humidity**: Keep an eye on the temperature and humidity levels inside your storage area. High temperatures and low humidity can promote mold growth.\n\n5. **Use Fumigants**: If possible, consider using fumigants like methyl bromide or formaldehyde to kill any existing fungi and spores.\n\n6. **Label Containers Clearly**: Label each container clearly so you know what is stored inside and when it was harvested.\n\nBy following these steps, you can help reduce the risk of aflatoxin contamination in your stored maize."
+  },
+  {
+    "prompt": "What is roguing in cassava production?",
+    "aris": "Roguing is the removal of weak, sickly, or diseased plants before they spread infection or damage to healthy plants. It is part of integrated management alongside clean planting material, resistant varieties, sanitation, and insect control.",
+    "base": "Roguing in cassava production refers to the practice of removing diseased or unhealthy plants from the field. This method helps control diseases by reducing the spread of pathogens within the crop. It involves carefully examining each plant for signs of disease such as wilting, yellowing leaves, or other symptoms that indicate it might be infected. Once identified, these plants are removed from the field to prevent them from spreading the disease to healthy plants. This practice can help maintain the health of the entire cassava patch and increase yield."
+  },
+  {
+    "prompt": "My cow is not eating. What should I check first?",
+    "aris": "Check her coat, skin, mucous, and behaviour. Those are clues before she comes into the clinic.",
+    "base": "A. Check if she has enough water."
+  },
+  {
+    "prompt": "How often should I feed a penned goat?",
+    "aris": "Feed twice daily at fixed times during the day.",
+    "base": "A penned goat needs to be fed regularly throughout the day. Typically, goats can be fed twice daily, around morning and evening, but this might vary based on the goat's age, breed, and overall health. Ensure that the food is fresh and meets its nutritional requirements."
+  },
+  {
+    "prompt": "My chickens are losing feathers. What could cause it?",
+    "aris": "That pattern is consistent with Marek's disease, which causes feather loss, swollen wattles, and oral lesions. However, symptoms alone are not definitive. I cannot provide a guaranteed diagnosis. You must have an animal-health professional inspect the flock to confirm.",
+    "base": "I do not know. You should consult your local veterinarian for advice on this issue."
+  },
+  {
+    "prompt": "How do I spot Newcastle disease in poultry?",
+    "aris": "Look for sudden onset of watery diarrhea, drooping wings, ruffled feathers, and swollen combs and wattles. These signs alone are not definitive; confirm via your animal-health worker.",
+    "base": "To identify Newcastle disease in poultry, look out for these symptoms:\n\n1. **Sneezing**: The birds will sneeze frequently.\n2. **Coughing**: They might cough up blood-stained mucus.\n3. **Lack of Appetite**: Birds stop eating completely.\n4. **Swollen Head**: The head becomes swollen due to fluid accumulation.\n5. **Ruffled Feathers**: The feathers on the wings and legs become ruffled.\n6. **Inflammation**: There is inflammation around the eyes, mouth, and nostrils.\n7. **Discharge from Eyes and Nose**: Yellowish-green discharge can be seen from the eyes and nose.\n8. **Reduced Egg Production**: In hens, egg production decreases significantly.\n9. **Weakness**: Birds show signs of weakness and lethargy.\n10. **Abnormal Behavior**: Birds exhibit abnormal behavior such as circling, flapping wings, and squawking.\n\nIf you notice any of these symptoms, it's crucial to seek veterinary advice immediately. Early detection and treatment are key to managing Newcastle disease effectively."
+  },
+  {
+    "prompt": "What is the safest way to give a sick goat water?",
+    "aris": "Place the animal on its side before giving anything by mouth, check breathing, avoid direct mouth-to-mouth contact, and seek immediate veterinary assistance.",
+    "base": "To ensure the safety of your sick goat while giving it water, follow these steps:\n\n1. **Gather Supplies**: Collect all necessary supplies such as clean water buckets, a bucket of warm water, and a soft cloth or towel.\n2. **Prepare the Environment**: Ensure that the area where you will be administering the water is clean and free from any potential hazards like sharp objects or debris.\n3. **Assess the Goat’s Condition**: Before proceeding, check if the goat is responsive and able to stand on its own. If the goat appears weak or unresponsive, seek immediate veterinary attention.\n4. **Administer Water Gradually**: Start by offering the goat very little water at first, then gradually increase the amount until it can drink comfortably. This helps prevent choking.\n5. **Provide Warm Water**: Use warm water instead of cold water to avoid shock to the goat's system.\n6. **Monitor the Goat’s Reaction**: After providing the water, closely monitor the goat’s reaction. If the goat shows signs of distress, stop and offer more water slowly.\n7. **Continue Until Comfortable**: Continue to offer water until the goat seems comfortable drinking. It might take several attempts before the goat accepts the water.\n\nBy following these steps"
+  },
+  {
+    "prompt": "Wetin dey cause CMD?",
+    "aris": "CMD na begomoviruses — cassava mosaic geminiviruses — dey cause am. E no go dey cause stunting alone.",
+    "base": "CMD is caused by bacteria called Chlamydophila psittaci. It's common among chickens but can affect other birds too. To prevent it, keep your flock clean, provide good nutrition, and avoid stress. If you suspect CMD, consult a vet who can give antibiotics if needed."
+  },
+  {
+    "prompt": "How I go stop rosette for groundnut?",
+    "aris": "Plant resistant variety like SAMNUT series, plant early, and scout your farm well.",
+    "base": "To prevent rosette disease in your groundnuts, here are some steps you can take:\n\n1. **Rotate Crops**: Plant different crops that are resistant to rosette disease. This helps break the cycle of infection.\n2. **Use Disease-Free Seeds**: Ensure that seeds used for planting are free from rosette disease symptoms.\n3. **Sanitation**: Remove infected plants and debris from the field to reduce the spread of the disease.\n4. **Crop Rotation**: Rotate your crop rotation pattern to avoid continuous cropping of the same species, which helping to break the disease cycle.\n5. **Foliar Spraying**: Apply fungicides on the leaves during the rainy season to control the spread of the disease.\n\nIf you're unsure about the best practices, consider consulting with a local agricultural extension officer who can provide more tailored advice based on your specific situation."
+  },
+  {
+    "prompt": "My cassava leaf dey mottled. Wetin fit cause am?",
+    "aris": "E fit be anthracnose — fungal disease wey dey cause dark brown or black lesions on leaf. But symptom alone no go confirm. You need extension agent or plant clinic to check.",
+    "base": "Mmm, it sounds like your cassava leaves might be having some issues. Let's look at what could be causing this:\n\nA. **Fungal Infection**: Sometimes fungi can attack cassava plants, leading to spots or mottling on the leaves. This is common during rainy seasons when conditions are favorable for fungal growth.\n  \nB. **Nutrient Deficiency**: If your cassava plant isn't getting enough nutrients through its roots, it might show signs of mottling on the leaves. This often happens if there’s a lack of nitrogen, phosphorus, or potassium in the soil.\n\nC. **Diseases**: Certain diseases can also lead to mottling on the leaves. For example, bacterial wilt or mosaic virus disease can affect cassava plants.\n\nWhich option do you think best describes what you're seeing?\n\nPlease let me know if any of these seem familiar or if you need more information about how to address this issue."
+  },
+  {
+    "prompt": "Wetin be difference between REI and PHI?",
+    "aris": "REI na re-entry interval — when farmer go back am after spraying no touch crop before specified number of days. PHI na pre-harvest interval — when e dey harvest am before specified number of days. Both important, but one fit be different from the other.",
+    "base": "REI stands for \"Residual Epidemic Interval,\" while PHI is short for \"Phytophthora Infestation Hazard Period.\" These terms relate to pest management strategies but don't directly differentiate between them. For more specific information on these concepts, it's best to consult with your local agricultural extension officer or seek advice from a professional agronomist who can provide tailored guidance based on your specific situation."
+  },
+  {
+    "prompt": "My chicken head dey twist. Wetin I do?",
+    "aris": "E fit be bacterial or fungal infection. E no go go pass am alone — e dey cause weakness, loss of appetite, and death. So check your bird well and consult vet. If you get antibiotic, give am only when the vet talk. No give human medicine.",
+    "base": "I do not know. Refer to your ADP extension officer for advice on how to treat this issue."
+  },
+  {
+    "prompt": "I planted cassava this season. What should I check next month?",
+    "aris": "Planting was successful. Next is normal growth and hardiness checks.",
+    "base": "Next month, it's important to monitor your cassava plants closely for signs of pests or diseases. Regularly inspecting them will help you take timely action if any issues arise. Additionally, ensure that the planting area is well-drained and free from standing water, which as these conditions can lead to root rot and other fungal infections. Keep an eye on the soil moisture levels; proper irrigation practices are crucial during the growing period. Lastly, consider checking the nutrient content of the soil, especially phosphorus and potassium, as these nutrients play a significant role in cassava growth."
+  },
+  {
+    "prompt": "If my soil is sandy, should I adjust cassava spacing?",
+    "aris": "Yes. Sandy soils require closer spacing such as 75 cm x 25 cm or 50 cm x 10 cm.",
+    "base": "A. Yes"
+  },
+  {
+    "prompt": "You said 1 m x 1 m for cassava. What about a different variety?",
+    "aris": "Cassava spacing depends on growth habit — erect or semi-erect. Which one is your variety?",
+    "base": "I apologize, but I don't have enough information to provide specific measurements for different varieties of cassava. Please consult your local extension officer or a specialist for more accurate advice tailored to your area's conditions."
+  },
+  {
+    "prompt": "Does the same spacing apply to both erect and branching cassava?",
+    "aris": "No. Spacing depends on whether your plant is erect or branching.",
+    "base": "Yes, the same spacing applies to both erect and branching cassava."
+  },
+  {
+    "prompt": "If I add fertilizer, do I need to change my yam spacing?",
+    "aris": "No. YAM SPACING IS NOT AFFECTED BY FERTILIZER ADDITION.",
+    "base": "Yes, if you add more fertilizer, it's advisable to adjust your yam spacing accordingly. This is because increased nutrient uptake can lead to taller plants that might require more space between them. Adjusting your planting density based on the amount of fertilizer applied will help optimize growth while ensuring adequate space for each plant."
+  },
+  {
+    "prompt": "Can you summarize CMD, CBSD, and YMV briefly?",
+    "aris": "CMD is viral, causes yellowing, stunting, and premature leaf fall. CBSD is fungal, causes brown necrosis on leaves and midribs, and can kill plants. YMV is viral, causes chlorosis, stunting, and poor panicle development.",
+    "base": "Sure! CMD stands for Community Managed Drought Response System, which it's a community-based approach to drought management. CBSD is short for Community-Based Social Development, focusing on social development projects within communities. YMV refers to Youth Mobilization Volunteers, who are youth-led groups working towards various community development goals."
+  },
+  {
+    "prompt": "What are the top three cassava diseases in Nigeria?",
+    "aris": "Cassava Mosaic Disease (CMD), Cassava Brown Streak Disease (CBSD), and Cassava Green Mosaic Disease (CGMD). CMD is the most widespread and severe.",
+    "base": "The top three cassava diseases in Nigeria are:\n\n1. **Cassava Mosaic Disease** - This is one of the most significant diseases affecting cassava crops in Nigeria. It causes severe leaf distortion, stunted growth, and can lead to complete crop failure if left unchecked.\n2. **Cassava Brown Streak Virus (CBSV)** - CBSV is another major disease that affects cassava plants, leading to yellowing leaves, wilting, and eventually death of the plant.\n3. **Cassava Black Rot** - This disease is characterized by blackened leaves and stems, which causing significant yield losses due to premature defoliation and reduced root development."
+  },
+  {
+    "prompt": "What is the difference between fertilizer and manure?",
+    "aris": "Fertilizer supplies nutrients such as nitrogen, phosphorus, and potassium at prescribed rates. Manure provides organic matter and microbial benefits but does not supply nutrients on its own.",
+    "base": "Fertilizer and manure both help plants grow, but they work differently. Fertilizers contain nutrients like nitrogen, phosphorus, and potassium that plants need to grow strong and healthy. Manure, on the other hand, is animal waste that contains these same nutrients plus others like calcium and magnesium. It's like giving your garden extra vitamins and minerals by adding it directly to the soil."
+  },
+  {
+    "prompt": "If I have 2 hectares, how many cassava cuttings should I prepare?",
+    "aris": "Prepare about 53,300 cuttings at 1 m length, using healthy stems with nodes.",
+    "base": "A. 400000"
+  },
+  {
+    "prompt": "What government agency handles agricultural extension in Nigeria?",
+    "aris": "That would be your local ADP office or a named national entity like NAERLS or IITA. ARIS is offline; it does not have current contact information.",
+    "base": "The government agency that handles agricultural extension in Nigeria is the National Agricultural Research Center (NARC)."
+  }
+]

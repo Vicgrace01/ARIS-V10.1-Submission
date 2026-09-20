@@ -1,0 +1,12 @@
+{
+  "scorer": "aggressive_v1",
+  "unseen_total": 53,
+  "unseen_passed": 42,
+  "unseen_failed": 0,
+  "unseen_review": 11,
+  "unseen_pass_rate": 79.24528301886792,
+  "unseen_fail_rate": 0.0,
+  "seen_pass_rate": 73.25581395348837,
+  "seen_fail_rate": 2.3255813953488373,
+  "failures": []
+}
