@@ -1,6 +1,43 @@
 #!/usr/bin/env bash
+# Download your model weight file.
+#
+# Rules:
+#   - Must be idempotent (safe to run multiple times).
+#   - Must download without any credentials (public URL only).
+#   - The output path must match `_runtime.model_path` in metadata.json.
+#   - MODEL_URL must point to an exact, immutable file — pin it to a specific
+#     commit/release, never a mutable branch like "main". On Hugging Face,
+#     replace "main" in the URL with the exact commit SHA from your repo's
+#     file history so the file you submitted can never silently change.
+
 set -euo pipefail
-mkdir -p model
-curl -L -o model/ARIS-V10.1-1.5B-Q4_K_M.gguf \
-  https://huggingface.co/Vicgrace/ARIS-V10.1/resolve/main/ARIS-V10.1-1.5B-Q4_K_M.gguf
-echo "Downloaded model/ARIS-V10.1-1.5B-Q4_K_M.gguf"
+
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+MODEL_DIR="$HERE/model"
+
+# ⚠️ Edit ONLY the two values below (MODEL_FILE, MODEL_URL). Do not change
+# anything else in this file — see "download_model.sh" in README.md for what
+# the evaluator requires.
+MODEL_FILE="$MODEL_DIR/ARIS-V10.1-1.5B-Q4_K_M.gguf"
+MODEL_URL="https://huggingface.co/Vicgrace/ARIS-V10.1/resolve/39e09e4d7303af31c6fa5199c2a09f3fad0d746e/ARIS-V10.1-1.5B-Q4_K_M.gguf"
+
+mkdir -p "$MODEL_DIR"
+
+if [[ -f "$MODEL_FILE" ]]; then
+  echo "model already present at $MODEL_FILE — skipping download"
+  exit 0
+fi
+
+echo "downloading $MODEL_URL → ${MODEL_FILE}…"
+
+if command -v curl > /dev/null 2>&1; then
+  curl -L --fail --progress-bar -o "$MODEL_FILE.partial" "$MODEL_URL"
+elif command -v wget > /dev/null 2>&1; then
+  wget --show-progress -O "$MODEL_FILE.partial" "$MODEL_URL"
+else
+  echo "error: neither curl nor wget found" >&2
+  exit 1
+fi
+
+mv "$MODEL_FILE.partial" "$MODEL_FILE"
+echo "done: $MODEL_FILE"
