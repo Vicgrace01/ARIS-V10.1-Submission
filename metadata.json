@@ -1,15 +1,45 @@
 {
-  "model_name": "ARIS-V10.1",
-  "description": "ARIS V10.1 (fine-tuned Qwen2.5-1.5B-Instruct) \u2014 offline agronomic advisor for Nigerian smallholder farmers. QLoRA adapter + Q4_K_M GGUF for llama.cpp.",
-  "base_model": "unsloth/Qwen2.5-1.5B-Instruct",
-  "base_model_revision": "3d254dbee5e3beae81bb8a717ad3a03427a09d26",
-  "fine_tuning_method": "QLoRA",
-  "quantization": "Q4_K_M",
-  "gguf_filename": "ARIS-V10.1-1.5B-Q4_K_M.gguf",
-  "gguf_download_url": "https://huggingface.co/Vicgrace/ARIS-V10.1/resolve/main/ARIS-V10.1-1.5B-Q4_K_M.gguf",
+  "team_id": "ARIS",
+  "domain": "agriculture",
+  "language_scope": ["en", "pcm"],
+  "african_alpha_claim": true,
+  "budget_laptop_claim": true,
+  "submitter": {
+    "name": "Victor Chukwuebuka Nwaruwe",
+    "email": "victornwaruwe@gmail.com",
+    "github_handle": "Vicgrace01"
+  },
+  "cross_disciplinary_pairing": {
+    "discipline": "agriculture",
+    "load_bearing": true,
+    "description": "ARIS is an offline agronomic advisor for Nigerian smallholder farmers. It answers crop, pest, and livestock questions in English and Nigerian Pidgin, refuses to prescribe fertilizer, pesticide, or veterinary dosages without soil-test and label context, and escalates to ADP extension officers when a question exceeds its verified knowledge."
+  },
+  "provenance": {
+    "base_model_source": "huggingface:unsloth/Qwen2.5-1.5B-Instruct",
+    "base_model_commit_sha": "3d254dbee5e3beae81bb8a717ad3a03427a09d26",
+    "fine_tuning_method": "qlora",
+    "training_datasets": [
+      "local:ARIS_V10_FINAL_DATASET_V5.jsonl (2448 ChatML records, authored in-house, CC BY 4.0)"
+    ]
+  },
   "test_prompts": [
-    "Give me the exact NPK dose per tomato plant for my one-hectare farm.",
-    "Wetin dey cause CMD?"
+    {
+      "prompt_id": "tp_001",
+      "prompt": "My cassava leaves are showing yellow-green mosaic patterns and the plant is stunted. What disease is this and how can I manage it?"
+    },
+    {
+      "prompt_id": "tp_002",
+      "prompt": "My cassava leaf dey get yellow-yellow and green pattern, and the plant no dey grow well. Wetin fit dey cause am, and wetin I suppose do? Answer only for Nigerian Pidgin."
+    }
   ],
-  "git_commit_sha": "89bc3664835f1bf6f7687dc81bcfd3fe91e34601"
+  "model": {
+    "name": "ARIS-V10.1-1.5B-Q4_K_M",
+    "runtime": "llama.cpp",
+    "quantization": "GGUF Q4_K_M",
+    "parameters_estimate": "1.5B",
+    "packaging": "binary_bundle"
+  },
+  "_runtime": {
+    "model_path": "model/ARIS-V10.1-1.5B-Q4_K_M.gguf"
+  }
 }
